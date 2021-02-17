@@ -162,6 +162,11 @@ body {
   color: #bf7864;
 }
 
+.nama-mempelai {
+  font-family: "Dancing Script", cursive !important;
+  font-size: 1.6rem !important;
+}
+
 .text-atas .bismillah {
   font-family: "Dancing Script", cursive;
 }
@@ -322,7 +327,7 @@ body {
   }
 
   .nama-mempelai {
-    font-family: "Dancing Script", cursive;
+    font-family: "Dancing Script", cursive !important;
     font-size: 1.6rem !important;
   }
 
