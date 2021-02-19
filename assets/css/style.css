@@ -232,6 +232,10 @@ body {
   margin-top: 5px;
 }
 
+.judul-card-acara-detail {
+  color: #bf7864;
+}
+
 .card-acara h5 {
   color: #bf7864;
 }
@@ -367,6 +371,10 @@ body {
 
   .judul-card-acara {
     font-size: 1.3rem;
+  }
+
+  .judul-card-acara-detail {
+    font-size: 0.9rem;
   }
 
   /* page tampat */
